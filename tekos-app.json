@@ -1,15 +1,14 @@
 {
     "name": "Tekos Sample 2 Template ",
     "description": "This is the default tekos template.",
-    "flow-file":"flow.json",
+    "flow-file":"flow-samp.json",
     "tekos-bot-required": true,
     "keywords": [
         "bot",
-        "new template",
-        "sample"
+        "tekos"
     ],
     "website": "https://tekos.co",
-    "repository": "https://github.com/tekos-flow/sample",
+    "repository": "https://github.com/tekos-flow/sample2",
     "logo": "https://tekos.co/wp-content/uploads/2019/06/tekos-logo.png",
     "env": {
         "SECRET_TOKEN": {
