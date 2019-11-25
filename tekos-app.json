@@ -1,4 +1,4 @@
-{
+[{
     "name": "Tekos Sample 2 Template ",
     "description": "This is the default tekos template.",
     "flow-file":"flow-samp.json",
@@ -24,4 +24,4 @@
             "required": "false"
         }
     }
-}
+}]
