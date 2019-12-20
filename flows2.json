@@ -1,0 +1,1 @@
+[{"id":"11b806f0.d1ef69","type":"inject","z":"d71d36f8.52d3a8","name":"","topic":"","payload":"","payloadType":"date","repeat":"","crontab":"","once":false,"onceDelay":0.1,"x":128,"y":160,"wires":[["6883b57.29f0b4c"]]},{"id":"6883b57.29f0b4c","type":"chatbot-text","z":"d71d36f8.52d3a8","name":"","message":[""],"x":160,"y":100,"wires":[[]]}]
